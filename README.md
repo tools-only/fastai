@@ -5,7 +5,7 @@ Lesson 1地址：https://course.fast.ai/videos/?lesson=1
 基础模型是在Google colab上跑的，虽然Google colab的GPU服务器可以免费使用，可是我在实际使用的时候，分配到的卡并不是完整的，很多次连接都是1.0G RAM左右，效率比较低，考虑到在本地搭建环境遇到很多坑，所以目前还是用colab跟着课程走，慢一点就慢一点吧。  
 ## Day2: 学习Lesson 2，自建数据集，完成模型训练，进行数据清洗。
 日期: 2019/02/21  
-Lesson 2地址：https://course.fast.ai/videos/?lesson=2
+Lesson 2地址：https://course.fast.ai/videos/?lesson=2  
 colab的服务器频繁出现连接中断的情况，所以lesson 2的课程只动手做了一半。
 日期：2019/02/22
 将lesson 2剩余内容补上
