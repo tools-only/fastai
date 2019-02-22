@@ -6,3 +6,6 @@ Lesson 1地址：https://course.fast.ai/videos/?lesson=1
 ## Day2: 学习Lesson 2，自建数据集，完成模型训练，进行数据清洗。
 日期: 2019/02/21  
 colab的服务器频繁出现连接中断的情况，所以lesson 2的课程只动手做了一半。
+日期：2019/02/22
+将lesson 2剩余内容补上
+Lesson 2主要涉及到数据清洗，调优模型的两个重要参数：learning rate以及epoch，课程中讲解了这两个参数设置不当可能导致的后果。另外一部分讲解了SGD算法。
